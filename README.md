@@ -3,9 +3,8 @@
 ### App Description
 This project is my very first mini IOS project created on Xcode with Swift. It can do basic functionality like changing the background color and text color, altering the text string and saying goodbye!
 
-### App Walk-though (tap the picture)
-<a href="https://ibb.co/Fw8RcdR"><img src="https://i.ibb.co/Z8cqvbq/Screen-Recording-2022-07-23-at-10-10-25-AM.gif" alt="Screen-Recording-2022-07-23-at-10-10-25-AM" border="0" width = "200"/></a>
-
+### App Walk-though
+<a href="https://ibb.co/Fw8RcdR"><img src="https://user-images.githubusercontent.com/103079472/180610928-df827445-2c86-4f1f-80e4-f128e436bf7c.gif" alt="Screen-Recording-2022-07-23-at-10-10-25-AM" border="0" width = "200"/></a>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from Yongye!
