@@ -4,8 +4,6 @@
 This project is my very first mini IOS project created on Xcode with Swift. It can do basic functionality like changing the background color and text color, altering the text string and saying goodbye!
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
 <img src="https://imgur.com/a/RAr1nsY" width=200><br>
 
 
