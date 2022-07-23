@@ -18,11 +18,10 @@ class ViewController: UIViewController {
     }
 
     @IBAction func ChangingText(_ sender: Any) {
-        let mtext = TextField.text
-        TextLabel.text = mtext
-        TextField.text = ""
+            let mtext = TextField.text
+            TextLabel.text = mtext
+            TextField.text = ""
     }
-    
     
     @IBAction func BackgroundColorChange(_ sender: Any) {
 
@@ -33,7 +32,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func GoodBye(_ sender: Any) {
-        TextLabel.text = "GoodBye, I will miss you!"
+        TextLabel.text = "GoodBye👋, I will miss you!"
     }
 
     
